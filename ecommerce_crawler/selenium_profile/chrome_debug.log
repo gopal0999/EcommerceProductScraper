@@ -1,0 +1,14 @@
+[80671:259:0208/170115.022973:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[80678:259:0208/170115.114645:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[80671:259:0208/170126.627580:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:5184
+[80671:259:0208/170126.801061:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:265059
+[80671:259:0208/170127.920975:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:883094
+[80671:259:0208/170128.361645:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:45159
+[80671:259:0208/170131.221036:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:2200227
+[80671:259:0208/170145.698859:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:2992963
+[80671:259:0208/170155.127631:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:2747169
+[80671:259:0208/170155.131868:WARNING:download_manager_impl.cc(701)] A download with the same GUID already exists, the new request is ignored.
+[80671:259:0208/170155.144286:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:4680
+[80671:259:0208/170155.853094:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:118577
+[80671:33027:0208/170245.242813:INFO:rlz_lib.cc(443)] Attempting to send RLZ ping brand=CHFA
+[80671:33027:0208/170246.107270:INFO:rlz_lib.cc(452)] Succeeded in sending RLZ ping
