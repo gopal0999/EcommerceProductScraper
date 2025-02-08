@@ -1,6 +1,6 @@
 # In this project we have created a web crawler to crawl ecommerce webistes using their domain
 
-<!-- Command to run the scraper -->
+# # Command to run the scraper
 <!-- domains can have comma separated domain urls  -->
 
 <!-- first activate venv -->
