@@ -2,6 +2,12 @@
 
 <!-- Command to run the scraper -->
 <!-- domains can have comma separated domain urls  -->
+
+<!-- first activate venv -->
+source bin/activate #linux/mac
+
+<!-- change directory to ecommerce_crawler inside ecommerce_crawler  -->
+<!-- then run below command -->
 scrapy crawl product_spider -a domains="https://www.amazon.in/" -o output.json
 
 <!-- LOOM VIDEO for project reference -->
